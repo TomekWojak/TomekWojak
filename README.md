@@ -13,4 +13,4 @@
 <br>
 
 ## Technologies 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
