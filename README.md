@@ -1,4 +1,5 @@
 ## Hi, I'm Tomek 👋
+<br><br>
 💻 Junior Frontend Developer from Poland. Passionate about clean UI, accessible code
 
 <!--
