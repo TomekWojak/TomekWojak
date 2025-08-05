@@ -6,7 +6,7 @@
 ### 🌱 Currently working on:
 - Building my personal portfolio
 - Building real-world projects to strengthen my frontend skills
-- Mastering CSS layouts and responsive design
+- Mastering **CSS** layouts and responsive design
 - Improving code readability and clean coding habits
 - Writing clean, reusable **JavaScript** logic for interactive UIs
 <br>
