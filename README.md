@@ -17,3 +17,5 @@
 ![CSS3](https://img.icons8.com/?size=70&id=21278&format=png&color=000000)
 ![JavaScript](https://img.icons8.com/?size=70&id=PXTY4q2Sq2lG&format=png&color=000000)
 ![Bootstrap](https://img.icons8.com/?size=70&id=PndQWK6M1Hjo&format=png&color=000000)
+![SASS](https://img.icons8.com/?size=70&id=QBqFNfPPB2Kx&format=png&color=000000)
+![GIT](https://img.icons8.com/?size=70&id=20906&format=png&color=000000)
