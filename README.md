@@ -2,6 +2,7 @@
 <br>
 💻 Junior Frontend Developer from Poland. I enjoy building clean, responsive, and user-friendly interfaces.
 <br>
+
 ### 🌱 Currently working on:
 - Building my personal portfolio
 - Building real-world projects to strengthen my frontend skills
