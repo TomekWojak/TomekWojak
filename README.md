@@ -1,5 +1,5 @@
 ## Hi, I'm Tomek 👋
-## 💻 Junior Frontend Developer from Poland. Passionate about clean UI, accessible code
+# 💻 Junior Frontend Developer from Poland. Passionate about clean UI, accessible code
 
 <!--
 **TomekWojak/TomekWojak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
