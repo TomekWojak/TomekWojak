@@ -11,7 +11,6 @@
 - Writing clean, reusable **JavaScript** logic for interactive UIs
 <br>
 <br>
-<br>
 
 ## Technologies 
 ![HTML5](https://img.icons8.com/?size=70&id=20909&format=png&color=000000)
@@ -20,3 +19,5 @@
 ![Bootstrap](https://img.icons8.com/?size=70&id=PndQWK6M1Hjo&format=png&color=000000)
 ![SASS](https://img.icons8.com/?size=70&id=QBqFNfPPB2Kx&format=png&color=000000)
 ![GIT](https://img.icons8.com/?size=70&id=20906&format=png&color=000000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
