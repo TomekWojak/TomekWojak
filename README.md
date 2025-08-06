@@ -12,7 +12,7 @@
 <br>
 <br>
 
-## Technologies 
+## Technologies I am into
 ![Visual Studio Code](https://img.icons8.com/?size=50&id=9OGIyU8hrxW5&format=png&color=000000)
 ![HTML5](https://img.icons8.com/?size=50&id=20909&format=png&color=000000)
 ![CSS3](https://img.icons8.com/?size=50&id=21278&format=png&color=000000)
