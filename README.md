@@ -21,5 +21,5 @@
 ![SASS](https://img.icons8.com/?size=50&id=QBqFNfPPB2Kx&format=png&color=000000)
 ![GIT](https://img.icons8.com/?size=50&id=20906&format=png&color=000000)
 ![Node.js](https://img.icons8.com/?size=50&id=hsPbhkOH4FMe&format=png&color=000000)
-![Gulp](https://img.icons8.com/?size=50&id=GX4iT6biRXL-&format=png&color=CF4647)
+![Gulp](https://img.icons8.com/?size=55&id=GX4iT6biRXL-&format=png&color=CF4647)
 
