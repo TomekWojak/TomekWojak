@@ -21,5 +21,4 @@
 ![GIT](https://img.icons8.com/?size=50&id=20906&format=png&color=000000)
 ![NPM](https://img.icons8.com/?size=50&id=24895&format=png&color=000000)
 ![Gulp](https://img.icons8.com/?size=60&id=GX4iT6biRXL-&format=png&color=CF4647)
-![Visual Studio Code](https://img.icons8.com/?size=50&id=9OGIyU8hrxW5&format=png&color=000000)
 
