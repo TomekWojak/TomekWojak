@@ -13,7 +13,6 @@
 <br>
 
 ## Technologies I am into
-![Visual Studio Code](https://img.icons8.com/?size=50&id=9OGIyU8hrxW5&format=png&color=000000)
 ![HTML5](https://img.icons8.com/?size=50&id=20909&format=png&color=000000)
 ![CSS3](https://img.icons8.com/?size=50&id=21278&format=png&color=000000)
 ![JavaScript](https://img.icons8.com/?size=50&id=PXTY4q2Sq2lG&format=png&color=000000)
@@ -22,4 +21,5 @@
 ![GIT](https://img.icons8.com/?size=50&id=20906&format=png&color=000000)
 ![NPM](https://img.icons8.com/?size=50&id=24895&format=png&color=000000)
 ![Gulp](https://img.icons8.com/?size=60&id=GX4iT6biRXL-&format=png&color=CF4647)
+![Visual Studio Code](https://img.icons8.com/?size=50&id=9OGIyU8hrxW5&format=png&color=000000)
 
