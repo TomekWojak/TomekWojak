@@ -1,6 +1,6 @@
 ## Hi, I'm Tomek 👋
 <br>
-💻 Aspiring junior Frontend Developer from Poland. I enjoy building clean, responsive, and user-friendly interfaces.
+💻 Aspiring junior Frontend Developer from Poland. I enjoy building clean, responsive, and user-friendly interfaces. In the future, I’d love to focus on creating websites with beautiful, thoughtful design, and gradually move towards building fully functional applications — including mobile apps.
 <br>
 
 ### 🌱 Currently working on:
