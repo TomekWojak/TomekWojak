@@ -9,7 +9,6 @@
 - Mastering **CSS** layouts and responsive design
 - Improving code readability and clean coding habits
 - Writing clean, reusable **JavaScript** logic for interactive UIs
-- Writing clean, reusable **JavaScript** logic for interactive UIs
 <br>
 <br>
 
