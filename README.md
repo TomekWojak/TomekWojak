@@ -15,11 +15,18 @@
 ## Technologies I am into
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white
 )
-![CSS3](https://img.icons8.com/?size=50&id=21278&format=png&color=000000)
-![JavaScript](https://img.icons8.com/?size=50&id=PXTY4q2Sq2lG&format=png&color=000000)
-![Bootstrap](https://img.icons8.com/?size=50&id=PndQWK6M1Hjo&format=png&color=000000)
-![SASS](https://img.icons8.com/?size=50&id=QBqFNfPPB2Kx&format=png&color=000000)
-![GIT](https://img.icons8.com/?size=50&id=20906&format=png&color=000000)
-![NPM](https://img.icons8.com/?size=50&id=24895&format=png&color=000000)
-![Gulp](https://img.icons8.com/?size=60&id=GX4iT6biRXL-&format=png&color=CF4647)
+![CSS3](https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white
+)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white
+)
+![SASS](https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white
+)
+![GIT](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white
+)
+![NPM](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white
+)
+![Gulp](https://img.shields.io/badge/gulp-%23CF4647?style=for-the-badge&logo=gulp&logoColor=white
+)
 
