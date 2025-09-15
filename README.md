@@ -13,7 +13,8 @@
 <br>
 
 ## Technologies I am into
-![HTML5](https://img.icons8.com/?size=50&id=20909&format=png&color=000000)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white
+)
 ![CSS3](https://img.icons8.com/?size=50&id=21278&format=png&color=000000)
 ![JavaScript](https://img.icons8.com/?size=50&id=PXTY4q2Sq2lG&format=png&color=000000)
 ![Bootstrap](https://img.icons8.com/?size=50&id=PndQWK6M1Hjo&format=png&color=000000)
