@@ -27,11 +27,16 @@
 )
 ![NPM](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white
 )
-![Gulp](https://img.shields.io/badge/gulp-%23CF4647?style=for-the-badge&logo=gulp&logoColor=white
+![Gulp](https://img.shields.io/badge/gulp-%23CF4647?style=for-the-badge&logo=gulp&logoColor=white)
 
 <br>
-<br>
+
 ## Tools I use in web development
-
+![VsCode](https://img.shields.io/badge/VsCode-%23007ACC?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiBmaWxsPSIjZmZmDQoiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTkwLjc2NyAxMjcuMTI2YTcuOTY4IDcuOTY4IDAgMCAwIDYuMzUtLjI0NGwyNi4zNTMtMTIuNjgxYTggOCAwIDAgMCA0LjUzLTcuMjA5VjIxLjAwOWE4IDggMCAwIDAtNC41My03LjIxTDk3LjExNyAxLjEyYTcuOTcgNy45NyAwIDAgMC05LjA5MyAxLjU0OGwtNTAuNDUgNDYuMDI2TDE1LjYgMzIuMDEzYTUuMzI4IDUuMzI4IDAgMCAwLTYuODA3LjMwMmwtNy4wNDggNi40MTFhNS4zMzUgNS4zMzUgMCAwIDAtLjAwNiA3Ljg4OEwyMC43OTYgNjQgMS43NCA4MS4zODdhNS4zMzYgNS4zMzYgMCAwIDAgLjAwNiA3Ljg4N2w3LjA0OCA2LjQxMWE1LjMyNyA1LjMyNyAwIDAgMCA2LjgwNy4zMDNsMjEuOTc0LTE2LjY4IDUwLjQ1IDQ2LjAyNWE3Ljk2IDcuOTYgMCAwIDAgMi43NDMgMS43OTNabTUuMjUyLTkyLjE4M0w1Ny43NCA2NGwzOC4yOCAyOS4wNThWMzQuOTQzWiIgY2xpcC1ydWxlPSJldmVub2RkIi8%2BPC9zdmc%2BDQo%3D
 )
-
+![Figma](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white
+)
+![Inkscape](https://img.shields.io/badge/inkscape-%23000000?style=for-the-badge&logo=inkscape&logoColor=white
+)
+![Gimp](https://img.shields.io/badge/gimp-%238C8073?style=for-the-badge&logo=gimp&logoColor=white
+)
