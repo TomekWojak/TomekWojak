@@ -1,3 +1,6 @@
+![HeroImg](https://i.imgur.com/UkyIdUi.png)
+<br>
+<br>
 ## Hi, I'm Tomek 👋
 <br>
 💻 Aspiring junior Frontend Developer from Poland. I enjoy building clean, responsive, and user-friendly interfaces. In the future, I’d love to focus on creating websites with beautiful, thoughtful design, and gradually move towards building fully functional applications — including mobile apps.
@@ -51,6 +54,5 @@
 )
 ![NodeJs](https://img.shields.io/badge/Node.JS-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=%23fff
 )
-<br>
 <br>
 <br>
