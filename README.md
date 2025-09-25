@@ -1,4 +1,4 @@
-![HeroImg](https://i.imgur.com/UkyIdUi.png)
+![HeroImg](https://i.imgur.com/b9GOgDx.gif)
 <br>
 <br>
 ## Hi, I'm Tomek 👋
