@@ -2,6 +2,7 @@
 ## Hi, I'm Tomek 👋
 ![HeroImg](https://i.imgur.com/b9GOgDx.gif)
 <br>
+<br>
 💻 Aspiring junior Frontend Developer from Poland. I enjoy building clean, responsive, and user-friendly interfaces. In the future, I’d love to focus on creating websites with beautiful, thoughtful design, and gradually move towards building fully functional applications — including mobile apps.
 <br>
 
