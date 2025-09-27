@@ -12,6 +12,7 @@
 - Mastering **CSS** layouts and responsive design
 - Improving code readability and clean coding habits
 - Writing clean, reusable **JavaScript** logic for interactive UIs
+- Practicing API integration and error handling
 <br>
 <br>
 
