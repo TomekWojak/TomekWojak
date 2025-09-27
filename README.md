@@ -13,6 +13,7 @@
 - Improving code readability and clean coding habits
 - Writing clean, reusable **JavaScript** logic for interactive UIs
 - Practicing API integration and error handling
+- Enhancing accessibility and performance in web apps
 <br>
 <br>
 
