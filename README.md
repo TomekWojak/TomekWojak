@@ -13,6 +13,11 @@
 - 🤝 Collaborating on real-world projects and working in team environments  
 
 <br>
+| Certificate | Organization | Year |
+|-------------|--------------|------|
+| Responsive Web Design | freeCodeCamp | 2025 |
+| JS Algorithms & Data Structures | freeCodeCamp | 2025 |
+| Frontend Challenges | Frontend Mentor | 2025 |
 
 ### Currently working on:
 - Building my personal portfolio
