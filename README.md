@@ -3,12 +3,20 @@
 ![HeroImg](https://i.imgur.com/b9GOgDx.gif)
 <br>
 <br>
-💻 Aspiring junior Frontend Developer from Poland. I enjoy building clean, responsive, and user-friendly interfaces. In the future, I’d love to focus on creating websites with beautiful, thoughtful design, and gradually move towards building fully functional applications — including mobile apps.
+💻 Aspiring Junior Frontend Developer from Poland  
+🎓 Computer Science student  
+
+### What I’m passionate about:
+- 🌐 Building clean, responsive, and user-friendly interfaces  
+- 🎨 Crafting websites with beautiful and thoughtful design  
+- 📱 Gradually moving towards developing fully functional web & mobile applications   
+- 📚 Constantly learning new technologies and improving my problem-solving skills  
+- 🤝 Collaborating on real-world projects and working in team environments  
+
 <br>
 
-### 🌱 Currently working on:
+### Currently working on:
 - Building my personal portfolio
-- Building real-world projects to strengthen my frontend skills
 - Mastering **CSS** layouts and responsive design
 - Improving code readability and clean coding habits
 - Writing clean, reusable **JavaScript** logic for interactive UIs
