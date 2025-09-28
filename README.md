@@ -1,6 +1,4 @@
 ## Hi, I'm Tomek 👋
-<br>
-
 ![HeroImg](https://i.imgur.com/b9GOgDx.gif)
 <br>
 <br>
