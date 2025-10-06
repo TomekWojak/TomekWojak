@@ -1,4 +1,4 @@
-## Hi, I'm Tomek 👋
+## Hi, I'm Tomek
 ![HeroImg](https://i.imgur.com/b9GOgDx.gif)
 <br>
 <br>
