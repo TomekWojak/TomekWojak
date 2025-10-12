@@ -5,6 +5,8 @@
 #### 💻 Aspiring Junior Frontend Developer from Poland  
 #### 🎓 Computer Science student  
 
+<br>
+
 ### What I’m passionate about:
 - 🌐 Building clean, responsive, and user-friendly interfaces  
 - 🎨 Crafting websites with beautiful and thoughtful design  
