@@ -2,8 +2,8 @@
 ![HeroImg](https://i.imgur.com/b9GOgDx.gif)
 <br>
 <br>
-💻 Aspiring Junior Frontend Developer from Poland  
-🎓 Computer Science student  
+#### 💻 Aspiring Junior Frontend Developer from Poland  
+#### 🎓 Computer Science student  
 
 ### What I’m passionate about:
 - 🌐 Building clean, responsive, and user-friendly interfaces  
