@@ -58,9 +58,9 @@
 <br>
 
 ## Next Milestones
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%23fff)
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=%23000
 )
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%23fff)
 ![Tailwind](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%23fff
 )
 ![NodeJs](https://img.shields.io/badge/Node.JS-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=%23fff
