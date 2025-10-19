@@ -8,11 +8,11 @@
 <br>
 
 ### What I’m passionate about:
-- 🌐 Building clean, responsive, and user-friendly interfaces  
-- 🎨 Crafting websites with beautiful and thoughtful design  
-- 📱 Gradually moving towards developing fully functional web & mobile applications   
-- 📚 Constantly learning new technologies and improving my problem-solving skills  
-- 🤝 Collaborating on real-world projects and working in team environments  
+- Building clean, responsive, and user-friendly interfaces  
+- Crafting websites with beautiful and thoughtful design  
+- Gradually moving towards developing fully functional web & mobile applications   
+- Constantly learning new technologies and improving my problem-solving skills  
+- Collaborating on real-world projects and working in team environments  
 
 <br>
 
