@@ -65,5 +65,7 @@
 )
 ![NodeJs](https://img.shields.io/badge/Node.JS-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=%23fff
 )
+![NextJs](https://img.shields.io/badge/NextJs-%23000000?style=for-the-badge&logo=nextdotjs
+)
 <br>
 <br>
