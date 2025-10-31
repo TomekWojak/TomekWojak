@@ -63,7 +63,5 @@
 )
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=%23000
 )
-![Tailwind](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%23fff
-)
 <br>
 <br>
