@@ -63,5 +63,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%23fff)
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=%23000
 )
+![NextJs](https://img.shields.io/badge/NextJs-%23000000?style=for-the-badge&logo=nextdotjs
+)
 <br>
 <br>
