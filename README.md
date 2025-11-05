@@ -65,5 +65,7 @@
 )
 ![NextJs](https://img.shields.io/badge/NextJs-%23000000?style=for-the-badge&logo=nextdotjs
 )
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%23fff
+)
 <br>
 <br>
