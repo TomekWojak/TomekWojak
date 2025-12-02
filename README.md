@@ -1,7 +1,6 @@
 ## Hi, I'm Tomek
 
 #### 💻 Aspiring Junior Frontend Developer from Poland  
-#### 🎓 Computer Science student  
 
 <br>
 
