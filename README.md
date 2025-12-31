@@ -1,4 +1,5 @@
-## Hi, I'm Tomek
+## Hi, I'm Tomek <p align=right><img src="https://www.svgrepo.com/show/276754/confetti-new-year.svg" alt="Opis obrazka" width="26" height="26"></p>
+
 
 #### 💻 Aspiring Junior Frontend Developer from Poland  
 
@@ -20,7 +21,7 @@
 - Writing clean, reusable **JavaScript** logic for interactive UIs
 - Practicing API integration and error handling
 - Enhancing accessibility and performance in web apps
-- Learning Tailwind CSS for rapid, utility-first styling and responsive design
+- Learning TypeScript for safer, more predictable and scalable frontend development
 <br>
 <br>
 
