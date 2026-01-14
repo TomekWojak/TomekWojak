@@ -1,4 +1,4 @@
-## Hi, I'm Tomek <p align=right><img src="https://www.svgrepo.com/show/276754/confetti-new-year.svg" alt="Opis obrazka" width="26" height="26"></p>
+## Hi, I'm Tomek
 
 
 #### 💻 Aspiring Junior Frontend Developer from Poland  
